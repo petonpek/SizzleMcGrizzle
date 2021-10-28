@@ -1,6 +1,6 @@
 ### Welcome to my Github account!
 
-Feel free to explore any and all of my public repositories, or check out some of the statistics below.
+Feel free to explore anywhere and everywhere!
 
 [![SizzleMcGrizzle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SizzleMcGrizzle&theme=radical&hide=stars,issues)](https://github.com/SizzleMcGrizzle)
 
