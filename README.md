@@ -1,6 +1,6 @@
 ### Welcome to my Github account!
 
-Feel free to explore anywhere and everywhere!
+Check out some of my polished repositories below...
 
 [![SizzleMcGrizzle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SizzleMcGrizzle&theme=darcula&hide=stars,issues)](https://github.com/SizzleMcGrizzle)
 
